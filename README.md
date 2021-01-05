@@ -1,1 +1,1 @@
-**This is my first holberton repo**
+**Holberton repo**
