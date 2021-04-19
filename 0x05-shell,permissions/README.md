@@ -2,7 +2,7 @@
 
 ## We will be learning in this section 0x05 about Shell Permissions
 
-## Topcs covered are shown below:
+## Topics covered are shown below:
 
 1. Who am I
 2. Groups
@@ -20,3 +20,5 @@
 14. Owner and group
 15. Symbolic links
 16. If only
+100. Star_Wars
+101. man_holbertonc
