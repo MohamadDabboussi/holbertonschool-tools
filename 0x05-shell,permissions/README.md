@@ -21,4 +21,4 @@
 15. Symbolic links
 16. If only
 100. Star_Wars
-101. man_holbertonc
+101. man_holberton
