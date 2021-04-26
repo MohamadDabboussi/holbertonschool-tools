@@ -2,7 +2,7 @@
 
 # 0x06-shell_redirections Section Tasks
 
-## In this section we will be learning about Shell redirections
+## Topics covered are shown below:
 
 0. Hello World
 1. Confused smiley
